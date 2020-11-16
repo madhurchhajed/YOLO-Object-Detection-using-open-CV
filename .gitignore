@@ -6,6 +6,7 @@
 *.ko
 *.obj
 *.elf
+*. yolo-coco
 
 # Linker output
 *.ilk
