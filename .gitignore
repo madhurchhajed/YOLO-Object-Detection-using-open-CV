@@ -6,7 +6,8 @@
 *.ko
 *.obj
 *.elf
-*.yolo-coco
+
+YOLO-Object-Detection-using-open-CV/yolo-coco/yolov3.weights
 
 # Linker output
 *.ilk
