@@ -24,9 +24,9 @@ python yolo.py --image images/cat.jpg --yolo yolo-coco
 
 Output Images :
 <p align="center">
-  <img src="output/cat_output.JPG" >
+  <img src="output/cat_output.jpg" >
 
-  <img src="output/dogs_cats_ouptut_output.JPG" >
+  <img src="output/dogs_cats_output.JPG" >
   
   <img src="output/living_room_output.JPG" >
   
