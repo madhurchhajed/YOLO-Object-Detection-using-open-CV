@@ -30,6 +30,6 @@ Output Images :
   
   <img src="output/living_room_output.JPG" >
   
-  <img src="living_room2_output.JPG" >
+  <img src="output/living_room2_output.JPG" >
     
 </p>
