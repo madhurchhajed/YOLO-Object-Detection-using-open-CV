@@ -16,10 +16,20 @@ Images for testing the model
 #### yolo.py 
 
 
-To run the model on one of the images in images folder:
+To run the model on one of the images in images folder after entering the directory :
 
 ```bash 
 python yolo.py --image images/cat.jpg --yolo yolo-coco
 ```
 
 Output Images :
+<p align="center">
+  <img src="output/cat_output.JPG" >
+
+  <img src="output/dogs_cats_ouptut_output.JPG" >
+  
+  <img src="output/living_room_output.JPG" >
+  
+  <img src="living_room2_output.JPG" >
+    
+</p>
